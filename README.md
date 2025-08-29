@@ -25,6 +25,18 @@ I'm Kadno, a developer and cyber security analyst with a passion for building se
   </a>
 </p>
 
+<!-- SUPPORT -->
+Want to support me? Just send some kind donations to my crypto wallet. I've got a few addresses readily available:
+- ![Bitcoin](https://img.shields.io/badge/BTC-Bitcoin-F7931A?logo=bitcoin&logoColor=white) **$BTC**: `bc1qdv6hat8vs72geukaegrhrmc8x9nhvhxxcqyaqz`
+- ![BCB](https://img.shields.io/badge/USDT-Tether-26A17B?logo=tether&logoColor=white) **$BCB**: `0x2C8e7a5bAf8c135e7fC77Af93672AD59E29d18f4`
+- ![XRP](https://img.shields.io/badge/XRP-XRP-23292F?logo=ripple&logoColor=white) **$XRP**: `r9DdHCUGdGvmeUKukrwRbuNVt2s2BsuGg7`
+- ![Solana](https://img.shields.io/badge/SOL-Solana-00FFA3?logo=solana&logoColor=white) **$SOL**: `HorE8EfXqFK2LMcaTj64CZKGu7V4k2y6hqp6osHUfzQs`
+- ![Algorand](https://img.shields.io/badge/ALGO-Algorand-000000?logo=algorand&logoColor=white) **$ALGO**: `JEJNC22AZLSDW3JURPWBT3Z5DB5QHD7RLR7IKZRIOVASI7I4RMNBM2LLPA` *preferred*
+- ![Cardano](https://img.shields.io/badge/ADA-Cardano-0033AD?logo=cardano&logoColor=white) **$ADA**: `addr1qx6ktn5edmnjh3z7tsk6445acxptp6w9tzlfpzr6dyam44a4vh8fjmh890z9uhpd4ttfmsvzkr5u2k97jzy856fmhtts0mnjh8`
+
+
+
+
 <!-- PROJECTS -->
 # ⌨️<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=DCDCDC&vCenter=true&width=435&height=20&lines=%3E_++RUN+KADX" alt="Typing SVG" /></a>
 Kadx is the sub cli that can be used to execute the suite of Kadno developed software if you download it all as a 'bundle', such as launching Spectr, MASK, running an RTTP, etc. It 'soft locks' you into a sub cli so you can't run host system commands to ensure safe and proper utility. Kadx is required if you want to 'rice' your system based on the one Kadno uses!
@@ -87,6 +99,7 @@ IDR is a sophisticated identification and profiling tool designed to collect, va
 ## License
 
 Unless otherwise clearly stated it is to be safely assumed all projects fall under this license.
+
 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 <br><a href="https://github.com/CallMeKadno">Repositories</a> © 2025 by <a href="https://github.com/CallMeKadno">Charles aka 'Kadno' </a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>
 <br>
