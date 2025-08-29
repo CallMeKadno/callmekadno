@@ -39,7 +39,8 @@ Mask is a mult-functional 'masking' program. Whether thats applying non-real-fac
 Qcrypt is a PQC (*post quantum cryptography*) software intended to run along side LUKS, with Qcrypt you can encrypt and decrypt specific directories or individual files with Kyber-1024 and ECC for a 'dual-layer' approach. The keys can be kept remotely, or on a flash-drive too.
 
 # ⛓️ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=DCDCDC&vCenter=true&width=435&height=20&lines=%3E_++RUN+QNET" alt="Typing SVG" /></a>
-Qnet uses Qcrypt post quantum cryptography software where possible to establish a secure connection. Qnet can establish a proxy through proxychains (*must be configured independently*) or to a Qcrypt node (*see project for more information*), otherwise Qnet can be treated as a wrapper for third-party software that exists on the system such as proton-vpn. Qnet will install tor and enable/disable it on demand (*by default Qnet will enforce tor on boot ensuring a secured connection from the start*).
+A simple Privacy-Hardened Network Wrapper for Linux systems. Qnet is designed to route your traffic through **Tor, VPN, or both**, with system-wide enforcement, leak detection, and kill-switch protection out of the box.
+With support for manual and daemon modes, proxychains integration, and provides notifications for important events for both DE (Desktop Environment) and headless (Server) infrastructures.
 
 # 🪽 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=DCDCDC&vCenter=true&width=435&height=20&lines=%3E_++RUN+ICARUS" alt="Typing SVG" /></a>
 Running Icarus (*one time*) deploys a system service that automates background processes using a localised, hand-crafted neural network. It analyses average patterns and trends over the last 74-hours across your CPU, GPU, RAM, and SWAP. Smartly killing services that are out of average patterns and exceed the 'safety' range. I.e; you launch a service you otherwise wouldn't, and it runs for over x-hours (*which you configure*) it will kill the service. It will not kill or modify default system services or ones added to an exclusion list such as `tor.service`.
@@ -82,5 +83,11 @@ IDR is a sophisticated identification and profiling tool designed to collect, va
 - Land records: analyse land and property records to assess ownership, location-based risks, and patterns. Including multi-modal routing networks, topography layers, boundary lines, and geospatial information.
 - Orbital imagery: Access recent satellite imagery across a range of spectrum this can be 'targetted' to specific post and zip codes, or coordinates. Generating visual near real-time insigns for specific interest or nearest-time images in basic spectrums.
 - Profiler: Built in 'profiler', allowing you to create Qcrypt secured profiles utilising OSINT data or view historic profiles. Profiles can be previewed in clean PDF format, terminal style, _or should an image of the individual be in the database then basic-data overlayed onto the image_. Consolidating all available local data.
+
+## License
+
+Unless otherwise clearly stated it is to be safely assumed all projects fall under this license.
+<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+<br><a href="https://github.com/CallMeKadno">Repositories</a> © 2025 by <a href="https://github.com/CallMeKadno">Charles aka 'Kadno' </a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>
 <br>
 <p align="center"><small><i>This is my profile beta format and is subject to change</i></small></p>
